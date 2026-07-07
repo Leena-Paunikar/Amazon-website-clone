@@ -27,7 +27,7 @@ Amazon-Website-Clone/
 3. Open 'index.html' in your browser.
 
 ## Screenshots
-![Amazon Website Clone](images/Screenshot1.png)
+![Amazon Website Clone](images/Screenshot.png)
 ![Amazon Website Clone](images/Screenshot2.png)
 ![Amazon Website Clone](images/Screenshot3.png)
 
