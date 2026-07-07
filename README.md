@@ -2,6 +2,9 @@
 A Amazon website clone built using HTML and CSS. 
 This project is created to practice front-end web development, page layout and design.
 
+## Live Demo
+https://leena-paunikar.github.io/Amazon-website-clone/
+
 ## Features 
 - Amazon inspired homepage
 - Navigation bar 
